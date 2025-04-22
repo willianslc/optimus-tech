@@ -1,0 +1,15 @@
+@import url(../styles/header.css);
+
+:root {
+    --fonte-principal: "inter", sans-serif;
+    --vermelho: #8E2424;
+    --preto: #101828;
+    --cinza: #667085;
+    --cinza2: #3A404E;
+    --fundo: #FFFFFF;
+}
+
+body {
+    font-family: var(--fonte-principal);
+    background-color: var(--fundo);
+}
