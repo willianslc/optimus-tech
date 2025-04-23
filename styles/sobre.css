@@ -1,0 +1,30 @@
+.container-sobre {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    align-items: center;
+    justify-content: center;
+    padding-top: 6em;
+}
+
+.sobre-nos {
+    font-family: var(--fonte-principal);
+    font-size: 1em;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.titulo-principal {
+    font-family: var(--fonte-principal);
+    font-size: 3em;
+    font-weight: 600;
+    color: var(--preto);
+    gap: 1.5em;
+}
+
+.descrição {
+    font-family: var(--fonte-principal);
+    font-size: 1.25em;
+    color: var(--cinza);
+}
+    
