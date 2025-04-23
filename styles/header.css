@@ -16,3 +16,31 @@
 .logo-marca {
     padding: 2rem 0.5rem; 
 }
+
+.navbar-lista {
+    display: flex;
+    gap: 2.5rem; /* só pra dar um espaçamento legal entre os itens */
+}
+
+.links-lista {
+    text-decoration: none;
+    font-family: var(--fonte-principal);
+    font-size: 1em;
+    color: var(--cinza);
+}
+
+.btn-entrar {
+    padding-right: 2em;
+    text-decoration: none;
+    font-family: var(--fonte-principal);
+    color: var(--cinza);
+}
+
+.btn-cadastrar {
+    background-color: var(--vermelho);
+    color: var(--fundo);
+    font-family: var(--fonte-principal);
+    padding: 0.62em 1.12em;
+    border-radius: 8px;
+    text-decoration: none;
+}
