@@ -1,0 +1,30 @@
+.container-metricas {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+    margin: 6em 7em;
+    font-family: var(--fonte-principal);
+}
+
+.metricas {
+    padding-left: 2em;    
+}
+
+.numeros {
+    font-size: 3.75em;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.titulo-metricas {
+    font-size: 1.12em;
+    font-weight: 600;
+    margin: 0.75em 0;
+}
+
+.texto-metricas {
+    font-size: 1em;
+    color: var(--cinza);
+    max-width: 270px;
+}

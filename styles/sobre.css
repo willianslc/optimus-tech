@@ -8,23 +8,22 @@
 }
 
 .sobre-nos {
-    font-family: var(--fonte-principal);
     font-size: 1em;
     font-weight: 600;
     color: var(--vermelho);
 }
 
 .titulo-principal {
-    font-family: var(--fonte-principal);
     font-size: 3em;
     font-weight: 600;
     color: var(--preto);
-    gap: 1.5em;
+    margin-bottom: 0.3em;
 }
 
 .descrição {
-    font-family: var(--fonte-principal);
     font-size: 1.25em;
     color: var(--cinza);
+    text-align: center;
+    width: 40%;
 }
     
