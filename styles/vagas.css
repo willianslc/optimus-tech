@@ -1,0 +1,41 @@
+.container-vagas {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    align-items: center;
+    justify-content: center;
+    padding-top: 6em;
+    text-align: center;
+}
+
+.vagas-abertas{
+    display: inline-block;
+    text-align: center;
+    font-size: 1em;
+    font-weight: 500;
+    color: var(--vermelho);
+    background-color: var(--vermelho2);
+    color: var(--vermelho);
+    font-family: var(--fonte-principal);
+    padding: 8px 12px;
+    border-radius: 1em;
+}
+
+.titulo-vagas {
+    font-size: 3em;
+    font-weight: 600;
+    color: var(--preto);
+    margin: 0.5em 0 0.5em 0;
+}
+
+.vagas-texto {
+    font-size: 1.25em;
+    color: var(--cinza);
+    text-align: center;
+    width: 100%;
+}
+
+.img-pessoas {
+    margin: 4em 7em 4em 7em;
+    border-radius: 10px;
+}

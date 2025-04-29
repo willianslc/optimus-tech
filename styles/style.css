@@ -1,10 +1,12 @@
 @import url(../styles/header.css);
 @import url(../styles/sobre.css);
 @import url(../styles/metricas.css);
+@import url(../styles/vagas.css);
 
 :root {
     --fonte-principal: "inter", sans-serif;
     --vermelho: #8E2424;
+    --vermelho2: #8e242428;
     --preto: #101828;
     --cinza: #667085;
     --cinza2: #3A404E;
