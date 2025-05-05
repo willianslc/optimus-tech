@@ -1,0 +1,41 @@
+.container-lista-vagas {
+    max-width: 800px;
+    margin: 4em auto;
+    padding: 0 1em;
+    font-family: var(--fonte-principal);
+}
+
+.area-titulo {
+    font-size: 1.25em;
+    font-weight: 600;
+    margin: 3em 0 1.5em 0;
+}
+
+.vaga-titulo {
+    font-size: 1.25em;
+    font-weight: 600;
+    margin-bottom: 5em;
+}
+
+.container-card {
+    background-color: white;
+    border: 2px solid #e0e0e0;
+    border-radius: 1em;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.vaga-titulo {
+    font-size: 1.1em;
+    font-weight: 500;
+    margin-bottom: 2em;
+    color: var(--preto);
+}
+
+.info-vaga {
+    display: flex;
+    color: var(--cinza);
+    font-size: 0.95em;
+    margin-top: 0.5em;
+}
