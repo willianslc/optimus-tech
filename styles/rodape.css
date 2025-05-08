@@ -1,0 +1,44 @@
+.rodape {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 6em;
+    background-color: var(--cinza3);
+    margin-top: 5em;
+}
+
+.container-cadastrar {
+    text-align: center;
+}
+
+.titulo-rodape {
+    font-family: var(--fonte-principal);
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.texto-rodape {
+    font-family: var(--fonte-principal);
+    font-size: 20px;
+    color: var(--cinza);
+    margin: 1.5em 2.5em;
+}
+
+.container-email {
+    margin-bottom: 2em;
+}
+
+.cadastro-email {
+  padding: 0.75rem 1rem;
+  width: 300px;
+  border: 1px solid #d1d5db; /* cinza claro */
+  border-radius: 0.5rem; /* cantos arredondados */
+  font-size: 1rem;
+  margin-right: 1em;
+}
+
+.copyright {
+    font-family: var(--fonte-principal);
+    color: var(--cinza);
+}

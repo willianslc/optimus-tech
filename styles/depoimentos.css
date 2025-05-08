@@ -11,8 +11,9 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 70%;
+    width: 60%;
     background-color: var(--vermelho2);
+    border-radius: 10px;
 }
 
 .colaboradores {
@@ -37,4 +38,10 @@
     color: var(--preto);
     font-weight: 500;
     margin: 1em 0;
+}
+
+.profissao {
+    font-size: 14px;
+    color: var(--cinza);
+    margin-bottom: 4em;
 }

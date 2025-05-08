@@ -4,6 +4,7 @@
 @import url(../styles/vagas.css);
 @import url(../styles/descricao-v.css);
 @import url(../styles/depoimentos.css);
+@import url(../styles/rodape.css);
 
 :root {
     --fonte-principal: "inter", sans-serif;
@@ -12,6 +13,7 @@
     --preto: #101828;
     --cinza: #667085;
     --cinza2: #3A404E;
+    --cinza3: #e7e7e7;
     --fundo: #FFFFFF;
 }
 
